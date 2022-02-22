@@ -1,0 +1,54 @@
+{
+    com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle:{
+        arrow_left:{
+            up: arrow_leftk2
+            down: arrow_left2
+        }
+        arrow_right:{
+            up: arrow_rightk2
+            down: arrow_right2
+        }
+        home:{
+            up: arrow_leftk2
+            down: arrow_left2
+        }
+        arrow_rotate:{
+            up: arrow_rotatek2
+            down: arrow_rotate2
+        }
+        exit:{
+            up: nok2
+            down: no2
+        }
+        exit2:{
+            up: nok3
+            down: no3
+        }
+        rate:{
+            up: stark2
+            down: star2
+        }
+        shop:{
+            up: shopk2
+            down: shop2
+        }
+        settings:{
+            up: settingsk2
+            down: settings2
+            checked: nok3
+            checkedDown: no3
+        }
+        sound:{
+            up: soundk2
+            down: sound2
+            checked: sound_disabledk
+            checkedDown: sound_disabled
+        }
+        music:{
+            up: musick2
+            down: music2
+            checked: music_disabledk
+            checkedDown: music_disabled
+        }
+    }
+}
